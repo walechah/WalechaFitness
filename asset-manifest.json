@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WalechaFitness/static/css/main.4326830e.css",
+    "main.js": "/WalechaFitness/static/js/main.b857b576.js",
+    "static/media/banner.png": "/WalechaFitness/static/media/banner.edb6856a7976bc538d8d.png",
+    "static/media/Logo.png": "/WalechaFitness/static/media/Logo.b09ea7510f07cb0f1c04.png",
+    "static/media/gym.png": "/WalechaFitness/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/WalechaFitness/index.html",
+    "main.4326830e.css.map": "/WalechaFitness/static/css/main.4326830e.css.map",
+    "main.b857b576.js.map": "/WalechaFitness/static/js/main.b857b576.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4326830e.css",
+    "static/js/main.b857b576.js"
+  ]
+}
